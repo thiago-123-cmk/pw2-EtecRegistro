@@ -1,0 +1,35 @@
+body{
+    background-color: #686363;
+    color: #fff;
+    font: normal 18pt arial;
+}
+
+div#caixaMagica{
+    background-color: rgb(255, 255, 253);
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 50%;
+}
+
+div#caixaMagica2{
+    background-color: rgb(255, 255, 253);
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 50%;
+}
+
+div#caixaMagica3{
+    background-color: rgb(255, 255, 253);
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 50%;
+}
