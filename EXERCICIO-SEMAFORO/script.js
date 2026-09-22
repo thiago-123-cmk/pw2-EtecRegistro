@@ -4,7 +4,7 @@ function parar() {
     caixaMagica.innerText = ''
     caixaMagica.style.backgroundColor = 'red'
     caixaMagica2.style.backgroundColor = 'white'
-    caixaMagic3.style.backgroundColor = 'white'
+    caixaMagica3.style.backgroundColor = 'white'
 }
 
 //escutando evento clicar
